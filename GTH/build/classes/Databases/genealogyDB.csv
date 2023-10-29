@@ -1,0 +1,64 @@
+Adam,0,Seth,None,130,800,930
+Seth,130,Enosh,Adam,105,807,912
+Enosh,235,Kenan,Seth,90,815,905
+Kenan,325,Mahalalel,Enosh,70,840,910
+Mahalalel,395,Jared,Kenan,65,830,895
+Jared,460,Enoch,Mahalalel,162,800,962
+Enoch,622,Methuselah,Jared,65,300,365
+Methuselah,687,Lamech,Enoch,187,782,969
+Lamech,874,Noah,Methuselah,182,595,777
+Noah,1056,Shem,Lamech,502,450,950
+Shem,1556,Arphaxad,Noah,Unknown,500,600
+Arphaxad,1656,Shelah,Shem,Unknown,135,438
+Shelah,1756,Eber,Arphaxad,Unknown,130,433
+Eber,1856,Peleg,Shelah,Unknown,134,464
+Peleg,1956,Reu,Eber,Unknown,130,239
+Reu,2056,Serug,Peleg,Unknown,132,239
+Serug,2156,Nahor,Reu,Unknown,130,230
+Nahor,2256,Terah,Serug,Unknown,79,148
+Terah,2335,Abraham,Nahor,130,75,205
+Abraham,2465,Isaac,Terah,100,75,175
+Isaac,2565,Jacob,Abraham,60,120,180
+Jacob,2685,Judah,Isaac,86,61,147
+Judah,2746,Perez,Jacob,Unknown,Unknown,Unknown
+Perez,Approx. 2895,Hezron,Judah,Unknown,Unknown,Unknown
+Hezron,Approx. 2900,Ram,Perez,Unknown,Unknown,Unknown
+Ram,Approx. 2935,Amminadab,Hezron,Unknown,Unknown,Unknown
+Amminadab,Approx. 2968,Nahshon,Ram,Unknown,Unknown,Unknown
+Nahshon,Approx. 3001,Salmon,Amminadab,Unknown,Unknown,Unknown
+Salmon,Approx. 3036,Boaz,Nahshon,Unknown,Unknown,Unknown
+Boaz,Approx. 3071,Obed,Salmon,Unknown,Unknown,Unknown
+Obed,Approx. 3106,Jesse,Boaz,Unknown,Unknown,Unknown
+Jesse,Approx. 3141,King David,Obed,Unknown,Unknown,Unknown
+King David,Approx. 3176,Solomon,Jesse,Unknown,Unknown,Unknown
+Solomon,Approx. 3211,Rehoboam,King David,Unknown,Unknown,Unknown
+Rehoboam,Approx. 3246,Abijah,Solomon,Unknown,Unknown,Unknown
+Abijah,Approx. 3281,Asa,Rehoboam,Unknown,Unknown,Unknown
+Asa,Approx. 3316,Jehoshaphat,Abijah,Unknown,Unknown,Unknown
+Jehoshaphat,Approx. 3351,Joram,Asa,Unknown,Unknown,Unknown
+Joram,Approx. 3386,Ahaziah,Jehoshaphat,Unknown,Unknown,Unknown
+Ahaziah,Approx. 3421,Joash,Joram,Unknown,Unknown,Unknown
+Joash,Approx. 3451,Amaziah,Ahaziah,Unknown,Unknown,Unknown
+Amaziah,Approx. 3496,Uzziah,Joash,Unknown,Unknown,Unknown
+Uzziah,Approx. 3536,Jotham,Amaziah,Unknown,Unknown,Unknown
+Jotham,Approx. 3566,Ahaz,Uzziah,Unknown,Unknown,Unknown
+Ahaz,Approx. 3586,Hezekiah,Jotham,Unknown,Unknown,Unknown
+Hezekiah,Approx. 3616,Manasseh,Ahaz,Unknown,Unknown,Unknown
+Manasseh,Approx. 3651,Amon,Hezekiah,Unknown,Unknown,Unknown
+Amon,Approx. 3671,Josiah,Manasseh,Unknown,Unknown,Unknown
+Josiah,Approx. 3701,Jehoiakim,Amon,Unknown,Unknown,Unknown
+Jehoiakim,Approx. 3726,Jeconiah,Josiah,Unknown,Unknown,Unknown
+Jeconiah,Approx. 3756,Shealtiel,Jehoiakim,Unknown,Unknown,Unknown
+Shealtiel,Approx. 3776,Zerubbabel,Jeconiah,Unknown,Unknown,Unknown
+Zerubbabel,Approx. 3806,Abiud,Shealtiel,Unknown,Unknown,Unknown
+Abiud,Approx. 3836,Eliakim,Zerubbabel,Unknown,Unknown,Unknown
+Eliakim,Approx. 3866,Azor,Abiud,Unknown,Unknown,Unknown
+Azor,Approx. 3896,Sadoc,Eliakim,Unknown,Unknown,Unknown
+Sadoc,Approx. 3926,Achim,Azor,Unknown,Unknown,Unknown
+Achim,Approx. 3956,Eliud,Sadoc,Unknown,Unknown,Unknown
+Eliud,Approx. 3986,Eleazar,Achim,Unknown,Unknown,Unknown
+Eleazar,Approx. 4016,Matthan,Eliud,Unknown,Unknown,Unknown
+Matthan,Approx. 4046,Jacob,Eleazar,Unknown,Unknown,Unknown
+Jacob,Approx. 4076,Joseph,Matthan,Unknown,Unknown,Unknown
+Joseph,Approx. 4106,Jesus Christ,Jacob,Unknown,Unknown,Unknown
+Jesus Christ,Approx. 4136,Unknown,Joseph,Unknown,Unknown,Unknown
